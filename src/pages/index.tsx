@@ -63,7 +63,6 @@ const Home: NextPage<PageProps> = ({
           maxH="330px"
           minW="530px"
         >
-          <StravaGraph stravaData={stravaData} />
         </GridItem>
         <GridItem
           borderRadius="15"
